@@ -20,6 +20,7 @@
 
 
 
+
 ***Resumen:***
 
 Este proyecto tiene como objetivo mejorar la eficiencia y productividad agrícola mediante la aplicación estratégica de la topografía en la gestión de terrenos. Se enfoca en evaluar la pendiente y zonas erosionables de la parcela, diseñar un drenaje adecuado, identificar áreas óptimas de exposición solar para cultivos y elaborar un mapa topográfico detallado mediante tecnología precisa, incluyendo un levantamiento de configuración de terreno con estación total en el mismo lugar. Además, busca crear un plan de nivelación para asegurar un riego uniforme y distribución equitativa de nutrientes en el suelo, promoviendo así una gestión más efectiva y sostenible de los recursos agrícolas.
