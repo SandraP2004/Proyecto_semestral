@@ -3,11 +3,17 @@
 ***Ingeniero Topógrafo Geomático***
 
 ***“Aplicación de Topografía Agrícola en un predio en la Localidad de Telcruz, Municipio de Cuautitlán de García Barragán, Jalisco”***
+
 ***3°B***
+
 ***Pérez Villa Sandra Paola***
+
 ***Guizar Duarte Francisco Javier***
+
 ***Ríos Rodríguez Huiqui Isaí***
+
 ***Barreto Campos Jocelyn Guadalupe***
+
 ***Gonzalez Zepeda Sebastián***
 
 ***Coquimatlán, Col. A 01 diciembre de 2023***
