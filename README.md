@@ -1,3 +1,4 @@
+<p style="text-align: center;">
 ![](Imagenes/UdeC_UnaLinea_Negro.png)
 
 ***Ingeniero Topógrafo Geomático***
@@ -13,7 +14,7 @@
 ***Gonzalez Zepeda Sebastián***
 
 ***Coquimatlán, Col. A 01 diciembre de 2023***
-
+</p
 
 ***Resumen:***
 
