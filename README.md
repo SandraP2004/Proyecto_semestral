@@ -1,10 +1,7 @@
-<p style="text-align: center;">     ![](Imagenes/UdeC_UnaLinea_Negro.png)   </p>
-<p style="text-align: center;">      ***Ingeniero Topógrafo Geomático*** </p>
-
-***“Aplicación de Topografía Agrícola en un predio en la Localidad de Telcruz, Municipio de Cuautitlán de García Barragán, Jalisco”***
-
-***3°B***
-
+![](Imagenes/UdeC_UnaLinea_Negro.png)
+***Ingeniero Topógrafo Geomático***\
+***“Aplicación de Topografía Agrícola en un predio en la Localidad de Telcruz, Municipio de Cuautitlán de García Barragán, Jalisco”***\
+***3°B***\
 ***Pérez Villa Sandra Paola***\
 ***Guizar Duarte Francisco Javier***\
 ***Ríos Rodríguez Huiqui Isaí***\
