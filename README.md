@@ -1,4 +1,4 @@
-![Poner nota de la imagen](Imagenes/UdeC_UnaLinea_Negro.png)
+![Poner nota de la imagen](Imagenes/iStock-1254330782-scaled.jpg)
 ***Ingeniero Topógrafo Geomático***\
 ***“Aplicación de Topografía Agrícola en un predio en la Localidad de Telcruz, Municipio de Cuautitlán de García Barragán, Jalisco”***\
 ***3°B***\
