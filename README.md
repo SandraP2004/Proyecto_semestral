@@ -1,7 +1,5 @@
-<p style="text-align: center;">
-![](Imagenes/UdeC_UnaLinea_Negro.png)
-
-***Ingeniero Topógrafo Geomático***
+<p style="text-align: center;">     ![](Imagenes/UdeC_UnaLinea_Negro.png)   </p>
+<p style="text-align: center;">      ***Ingeniero Topógrafo Geomático*** </p>
 
 ***“Aplicación de Topografía Agrícola en un predio en la Localidad de Telcruz, Municipio de Cuautitlán de García Barragán, Jalisco”***
 
@@ -14,7 +12,7 @@
 ***Gonzalez Zepeda Sebastián***
 
 ***Coquimatlán, Col. A 01 diciembre de 2023***
-</p
+
 
 ***Resumen:***
 
